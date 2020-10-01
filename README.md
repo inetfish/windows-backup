@@ -2,6 +2,7 @@
 Free Windows File Backup
 
   - summary: backup script to copy specificed folders and files to a network share.
-  - other details:
+  - pre-requisites & setup:
     - backup configuration file to configure directories to backup.
-    - script to install scheduled task to run backups on a specificed schedule.
+    - current design requires update batch file for additional directories to backup.
+    - script included to install scheduled task to run backups on a schedule.
