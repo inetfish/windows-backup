@@ -1,0 +1,1 @@
+SchTasks /Create /SC DAILY /TN "Backup-Files" /TR "%USERPROFILE%\OneDrive\scripts\backup.cmd" /ST 02:00
